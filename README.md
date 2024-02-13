@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My Favorite Tools 
+My Technical Skillset
 * 👩🏻‍💻 Programming Languages - **Python**, **SQL**
   
 * 🧰 Librabries - **Pandas**, **Numpy**, **Tensorflow**, **NLTK**, **Scikit-Learn**, **Matplotlib**, **Seaborn**, **Keras**
