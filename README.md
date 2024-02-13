@@ -2,6 +2,10 @@
 
 <!--
 **Pravallikab29/Pravallikab29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Favorite Tools 
+👩🏻‍💻 Programming Languages 
+<a href="https://camo.githubusercontent.com/909881c9f0c6055da9beaec88713338ae0fce92d5fb7eed349e1a417c0b009a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534432e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+Python ![image](https://github.com/Pravallikab29/Pravallikab29/assets/132104267/ba51047f-a00e-4746-8a72-d76670340a68)
 
 Here are some ideas to get you started:
 
