@@ -2,7 +2,7 @@
 
 
 My Technical Skillset
-* 👩🏻‍💻 Programming Languages - **Python**, **SQL**
+* 👩🏻‍💻 Programming Languages- **Python**, **SQL**
   
 * 🧰 Librabries - **Pandas**, **Numpy**, **Tensorflow**, **NLTK**, **Scikit-Learn**, **Matplotlib**, **Seaborn**, **Keras**
 * Data Analysis - **Data Cleaning**, **Data preprocessing**, **Data Manipulation**, **Feature Engineering**, **Data Mining**
